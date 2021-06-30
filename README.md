@@ -13,7 +13,7 @@ I am not very active in the open source community, as most of my work is confide
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kevon-houghton-7549631/)
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/766684/kevon)  
-
+<br />
 ## Expertise
 - ⚡ C#
 - ⚡ SQL (have attended Brent Ozar's Mastering series)
