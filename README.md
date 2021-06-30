@@ -14,7 +14,7 @@ I am not very active in the open source community, as most of my work is confide
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/766684/kevon)
 
-
+##
 ## Expertise
 - ⚡ C#
 - ⚡ SQL (have attended Brent Ozar's Mastering series)
