@@ -1,12 +1,10 @@
 ### Hi there 👋
-I am a part time freelance full stack software engineer from Pasadena, CA
-I am also the Director of Software Engineering at a local REIT
+I am a part time freelance full stack software engineer from Vancouver, WA
+I am also the Director of Software Engineering at a REIT
 
 I am not very active in the open source community, as most of my work is confidential. 
 
-- 🔭 I’m currently working on porting legacy .Net framework line of business applications to .Net 5 (soon 6) + Blazor
-- 🔭 I'm also working on a soon to be open sourced "Dice Roller" tool for distributed gaming groups.  The pandemic has pushed us all further apart physically, we want to enable people to continue interacting virtually.
-- 🌱 I'm currently learning best practices for Blazor
+- 🔭 I’m currently working on porting legacy .Net framework line of business applications to .Net 9 + Blazor
 
 ## Connect with me
 
