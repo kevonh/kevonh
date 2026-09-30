@@ -1,10 +1,7 @@
 ### Hi there 👋
 I am a part time freelance full stack software engineer from Vancouver, WA
-I am also the Director of Software Engineering at a REIT
 
 I am not very active in the open source community, as most of my work is confidential. 
-
-- 🔭 I’m currently working on porting legacy .Net framework line of business applications to .Net 9 + Blazor
 
 ## Connect with me
 
